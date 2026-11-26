@@ -1,4 +1,8 @@
-![Document-Object-Model-(DOM)-Bootstrap-Tailwind](https://i.pinimg.com/736x/86/72/bb/8672bb83de1dbd28e42f4e35f9b7a560.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aminbiography/tailwind-css-bootstrap-dom-algorithms/refs/heads/main/Tailwind-CSS-Bootstrap-%26-DOM-Algorithms.jpg" alt="Tailwind CSS, Bootstrap and DOM Algorithms" width="800">
+</p>
+
+---
 
 # Tailwind CSS, Bootstrap & DOM Algorithms
 
