@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aminbiography/tailwind-css-bootstrap-dom-algorithms/refs/heads/main/Tailwind-CSS-Bootstrap-%26-DOM-Algorithms.jpg" alt="Tailwind CSS, Bootstrap and DOM Algorithms" width="800">
+  <img src="https://raw.githubusercontent.com/aminbiography/tailwind-css-bootstrap-dom-algorithms/refs/heads/main/Tailwind-CSS-Bootstrap-%26-DOM-Algorithms.jpg" alt="Tailwind CSS, Bootstrap and DOM Algorithms" width="200">
 </p>
 
 ---
